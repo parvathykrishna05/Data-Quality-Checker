@@ -124,17 +124,14 @@ value_ranges:
 
 logging:
   level: INFO
+
 You can easily update:
-
 Column names
-
 Expected datatypes
-
 Value ranges
-
 Logging settings
 
-🧪 Testing With Messy Data
+##🧪 Testing With Messy Data
 
 This tool has been validated using real messy datasets from Kaggle, including:
 
