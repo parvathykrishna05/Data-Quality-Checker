@@ -1,0 +1,53 @@
+{
+    "missing_values": {
+        "Age": 0,
+        "Attrition": 0,
+        "BusinessTravel": 0,
+        "DailyRate": 0,
+        "Department": 0,
+        "DistanceFromHome": 0,
+        "Education": 0,
+        "EnvironmentSatisfaction": 0,
+        "Gender": 0,
+        "JobInvolvement": 0,
+        "JobLevel": 0,
+        "JobRole": 0,
+        "JobSatisfaction": 0,
+        "MaritalStatus": 0,
+        "NumCompaniesWorked": 0,
+        "OverTime": 0,
+        "PercentSalaryHike": 0,
+        "PerformanceRating": 0,
+        "RelationshipSatisfaction": 0,
+        "StockOptionLevel": 0,
+        "TotalWorkingYears": 0,
+        "TrainingTimesLastYear": 0,
+        "WorkLifeBalance": 0,
+        "YearsAtCompany": 0,
+        "YearsInCurrentRole": 0,
+        "YearsSinceLastPromotion": 0,
+        "YearsWithCurrManager": 0
+    },
+    "duplicates": 0,
+    "schema_match": false,
+    "schema_details": {
+        "age": "Missing Column",
+        "salary": "Missing Column",
+        "department": "Missing Column"
+    },
+    "outliers": {
+        "NumCompaniesWorked": 52,
+        "PerformanceRating": 226,
+        "StockOptionLevel": 85,
+        "TotalWorkingYears": 63,
+        "TrainingTimesLastYear": 238,
+        "YearsAtCompany": 104,
+        "YearsInCurrentRole": 21,
+        "YearsSinceLastPromotion": 107,
+        "YearsWithCurrManager": 14
+    },
+    "range_issues": [
+        "age: column missing",
+        "salary: column missing"
+    ]
+}

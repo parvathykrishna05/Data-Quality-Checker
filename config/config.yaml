@@ -1,0 +1,11 @@
+expected_schema:
+  age: int64
+  salary: float64
+  department: object
+
+value_ranges:
+  age: [0, 120]
+  salary: [0, null]
+
+logging:
+  level: INFO
