@@ -41,29 +41,50 @@ Configuration is handled via YAML for flexibility.
 ## 📁 Project Structure
 
 data-quality-checker/
+
 │
+
 ├── ui/
+
 │ └── app.py # Streamlit dashboard
+
 │
+
 ├── src/
+
 │ ├── init.py
+
 │ ├── validators.py # Validation logic
-│ └── utils.py # Config & logging utilities
+
+│ └── utils.py # Config & logging
+utilities
+
 │
 ├── config/
+
 │ └── config.yaml # Schema & range rules
+
 │
 ├── data/
+
 │ └── sample.csv # Sample dataset
+
 │
 ├── reports/
-│ └── validation_report.json # Generated output
+
+│ └── validation_report.json # 
+Generated output
+
 │
 ├── logs/
+
 │ └── run.log # CLI logs
+
 │
 ├── main.py # CLI entrypoint
+
 ├── requirements.txt
+
 └── README.md
 
 
@@ -210,7 +231,7 @@ This tool is suitable for:
 
 ## 👩‍💻 Author
 
-**Parvathy**  
-Data Science • AI • Machine Learning  
+**Parvathy Krishna M**  
+Aspiring Data Scientist • Data Engineer • Machine Learning Engineer 
 
 This project was built to demonstrate practical data-engineering and validation skills.
