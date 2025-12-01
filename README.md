@@ -182,38 +182,35 @@ Streamlit
 
 Logging
 
-🌐 Deployment
+## 🌐 Deployment
 
 Compatible with:
 
-Local execution
+- **Local execution**
+- **Streamlit Cloud**
+- **Docker**
+- **HuggingFace Spaces**
+- **Heroku** (Streamlit buildpack)
 
-Streamlit Cloud
+The project structure is optimized for smooth deployment across platforms.
 
-Docker
+---
 
-HuggingFace Spaces
-
-Heroku (Streamlit buildpack)
-
-The project structure is optimized for deployment.
-
-🎯 Use Cases
+## 🎯 Use Cases
 
 This tool is suitable for:
 
-Data validation in ML pipelines
+- **Data validation in ML pipelines**
+- **Pre-ingestion checks in ETL workflows**
+- **Business data quality assessments**
+- **Dashboard-based dataset audits**
+- **Reproducible data integrity analysis**
 
-Pre-ingestion checks in ETL workflows
+---
 
-Business data quality assessments
+## 👩‍💻 Author
 
-Dashboard-based dataset audits
+**Parvathy**  
+Data Science • AI • Machine Learning  
 
-Reproducible data integrity analysis
-
-👩‍💻 Author
-
-Parvathy
-Data Science • AI • Machine Learning
-This project was built to demonstrate real-world data quality engineering skills.
+This project was built to demonstrate practical data-engineering and validation skills.
