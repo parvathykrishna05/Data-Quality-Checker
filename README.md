@@ -112,7 +112,7 @@ The CLI generates:
 
 Located at: `config/config.yaml`
 
-```yaml
+yaml
 expected_schema:
   age: int64
   salary: float64
@@ -131,7 +131,7 @@ Expected datatypes
 Value ranges
 Logging settings
 
-##🧪 Testing With Messy Data
+## 🧪 Testing With Messy Data
 
 This tool has been validated using real messy datasets from Kaggle, including:
 
@@ -161,14 +161,14 @@ Duplicates
 
 Perfect for testing data quality pipelines.
 
-📦 Installation
+## 📦 Installation
 
 Clone the repository:
 git clone https://github.com/your-username/data-quality-checker.git
 cd data-quality-checker
 Install dependencies:
 pip install -r requirements.txt
-🧰 Technologies Used
+## 🧰 Technologies Used
 
 Python 3
 
